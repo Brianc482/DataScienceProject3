@@ -1,0 +1,2 @@
+The associated source code was written using Python 3.8. The code has been tested in Spyder and in Jupyter Notebooks to ensure the source code has the ability to run in multiple interactive development environments. 
+Terminal commands: python3 Project3.ipynb or python3 Project3.py
